@@ -6,6 +6,7 @@ Encog is released under the LGPL license.  Every source file in the project shou
 
 
 = Details =
+The standard header is as follows:
 {{{
  /*
   * Encog Neural Network and Bot Library for Java
