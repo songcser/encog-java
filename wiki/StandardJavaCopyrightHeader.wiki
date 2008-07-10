@@ -6,7 +6,7 @@ Encog is released under the LGPL license.  Every source file in the project shou
 
 
 = Details =
-
+<source lang="java">
  /*
   * Encog Neural Network and Bot Library for Java
   * http://www.heatonresearch.com/encog/
@@ -30,3 +30,4 @@ Encog is released under the LGPL license.  Every source file in the project shou
   * Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
   * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
   */
+</source>
